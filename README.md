@@ -1,12 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/hazim-arafa-a439aa205/">
-  <img align="left" alt="Hazim's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/tam-duong-523277201/">
+  <img align="left" alt="Noa's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xmasnoaa)
 
-My name is Hazim and I'm a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+My nickname is Noa and I'm a Web Developer who is passionate about building tech, teaching and learning new technologies 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -17,12 +17,6 @@ My name is Hazim and I'm a Software Engineer who is passionate about building te
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node)&nbsp;
-<br />
-![GoLang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
