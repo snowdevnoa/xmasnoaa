@@ -4,10 +4,16 @@
   <img align="left" alt="Noa's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=xmasnoaa)
+![](https://visitor-badge.glitch.me/badge?page_id=snowbearnoa)
 
-My nickname is Noa and I'm a Web Developer who is passionate about building tech, teaching and learning new technologies 
+Hi! I’m Tam (Noa), a software engineering student with a passion for DevOps, frontend development, and thoughtful design. ❄️
+I'm currently earning my B.S. in Software Engineering at Western Governors University, where I'm sharpening my skills across the stack—from building modern UI with React, Next.js, and TailwindCSS to automating development workflows with Docker, CI/CD, and cloud tools like AWS.
 
+My background started in UI/UX and frontend, but my curiosity has naturally led me toward DevOps, systems thinking, and scalable architecture. I enjoy bridging the gap between development and deployment—designing intuitive interfaces while also ensuring they’re fast, reliable, and cloud-ready.
+
+With experience in tools like Figma and Adobe Creative Suite, I approach engineering as both a creative and technical craft. Whether I’m prototyping user flows or spinning up containerized environments, I’m focused on building software that’s both elegant and efficient.
+
+In essence, I’m on a mission to merge creativity with code—crafting impactful digital experiences, one project at a time.
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
