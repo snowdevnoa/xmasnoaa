@@ -4,7 +4,7 @@
   <img align="left" alt="Noa's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=snowbearnoa)
+![](https://visitor-badge.glitch.me/badge?page_id=snowdevnoa)
 
 Hi! I’m Tam (Noa), a software engineering student with a passion for DevOps, frontend development, and thoughtful design. ❄️
 I'm currently earning my B.S. in Software Engineering at Western Governors University, where I'm sharpening my skills across the stack—from building modern UI with React, Next.js, and TailwindCSS to automating development workflows with Docker, CI/CD, and cloud tools like AWS.
@@ -28,11 +28,11 @@ In essence, I’m on a mission to merge creativity with code—crafting impactfu
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=snowbearnoa&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="vaulstein" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=snowdevnoa&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="vaulstein" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowbearnoa&theme=radical" alt="snowbearnoa" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowdevnoa&theme=radical" alt="snowdevnoa" /></p>
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snowbearnoa&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snowdevnoa&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
